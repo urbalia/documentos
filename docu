@@ -1,0 +1,31 @@
+Avances Aplicación Urbalia
+➢	Planilla que muestra la cantidad de pantallas y mensajes que tendrá el sistema.
+ 
+➢	Modelo de Datos
+ 
+
+
+
+➢	Diccionario de Datos:
+
+
+ 
+
+➢	Alcance del Modelo.
+
+•	Permite tener una Administración centralizada.
+•	Permite tener uno o más franquiciado por franquicia.
+•	Cada Franquiciado puede tener mas de un agente.
+•	Si el Franquiciado tiene más de una franquicia, los agente pueden hacer gestión en las distintas franquicias.
+•	El administrado activa o inactiva a un cliente.
+•	El administrador activa o inactiva a una propiedad.
+•	La administración de foto que se pueden subir por propiedad pueden ser inactivada por el administrador.
+•	EL máximo de fotos por propiedad son  diez y cada foto no puede ser mayor de 900 pixeles.
+•	El  dueño de la franquicia puede editar o crear clientes y propiedades.
+•	EL agente solo edita sus propios cliente y propiedades.
+•	Si se crea un cliente o una propiedad solo el administrador los activa, para ello se mandan mensajes de avisos.
+•	Al activar o inactivar un cliente o propiedad se manda un mensaje al agente informando.
+•	El código de propiedad solo lo ingresa el administrador y es manual pero es validad por un rango de números por franquicia.
+•	Solo el Administrador genera noticias generales.
+•	El administrador agrega correo de la empresa manualmente.
+•	El administrador ingresa password del usuario manualmente.
